@@ -71,7 +71,7 @@ async function checkHy(reserveDate, week) {
         text: {
           content: `${reserveDate} ${
             weekLabel[week]
-          }, 有场地可以预定了，请尽快预定: \n${list.join("\n")}`,
+          }, 有空场地了，速度冲: \n${list.join("\n")}`,
           mentioned_list: ["@all"],
         },
       });
