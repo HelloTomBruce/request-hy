@@ -1,0 +1,3850 @@
+[
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [{ "basePrice": 100, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [{ "basePrice": 100, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [{ "basePrice": 100, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "30362e118f194c49ab28e00b66019636",
+        "outGroupBizId": "33c7ac0f291c40aab6f7df090e1925c8",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      }
+    ],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "c14f7b79ca584c74ac3ac3768300f924",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "ebf08c342bc24fb696ec06b49432bb57",
+        "outGroupBizId": "e6d6beb76b4546d0b3cc6d742bad4247",
+        "showlabels": ["尧铸", "17757141175"],
+        "siteId": 303122310,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      }
+    ],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122310, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  },
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [{ "basePrice": 100, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "9af21cab093c476f9cedd7b2e0bf879c",
+        "outGroupBizId": "68b45a4d4ba048ca94e3c8fd4c358e07",
+        "showlabels": ["钱钢", "8618626891888"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      }
+    ],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [{ "basePrice": 100, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "ea8748bb1ac844b980ca2e4016600c4d",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      }
+    ],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 4,
+        "outBizId": "70fa9e7115204ece9db2ced65e7c13d2",
+        "outGroupBizId": "3831596b78494200b0b27a514183809a",
+        "showlabels": ["早睡早起身体好", "18072806355"],
+        "siteId": 303122321,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [{ "basePrice": 100, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122321, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  },
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [{ "basePrice": 100, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [{ "basePrice": 100, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [{ "basePrice": 100, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723387",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      }
+    ],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 3,
+        "outBizId": "723388",
+        "outGroupBizId": "2411190421489361499104",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122333,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [{ "basePrice": 100, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122333, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  },
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "74b06bcc0dfe45e4bc86cd5ffc17717d",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      }
+    ],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "f8cab68238844705acb7ba167a4a645a",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      }
+    ],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "7ee9fcdb6f674d1a8f53bba312078bf2",
+        "outGroupBizId": "9947bbeef14f4669be299cc73557543c",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      }
+    ],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [{ "basePrice": 100, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "b134ecc82e794be2bb19aee21783b7ff",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "71bf2931da8c4bbc9e86d7c69e9400b2",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122341,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      }
+    ],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122341, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  },
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [{ "basePrice": 100, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [{ "basePrice": 100, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 4,
+        "outBizId": "706af78852ef48678b7f1f9ca1e6a828",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      }
+    ],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 4,
+        "outBizId": "fded93035f744782be78e900f456218f",
+        "outGroupBizId": "a9ae0b5252814bf08fb80e6cccc00354",
+        "showlabels": ["训练队", "18968091359"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      }
+    ],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "67684eec99f441f7be985177daba09b7",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "0566010f7df44edd8da06bd89c785137",
+        "outGroupBizId": "a1504414745f4b069425cdbb726c3bbe",
+        "showlabels": ["陈皮", "8619906632740"],
+        "siteId": 303122349,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      }
+    ],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122349, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  },
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "1302b336a1104539b1d1b5e6145a3f3b",
+        "outGroupBizId": "16e65897027844f381b5bb801a5a7c67",
+        "showlabels": ["侯瑞泽", "8619822853606"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      }
+    ],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [{ "basePrice": 100, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "63f2a72278b64dd99ed3bdc6c1ad0204",
+        "outGroupBizId": "d302adeb719748b8af88ed40d545f608",
+        "showlabels": ["高顺婷", "13624120700"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      }
+    ],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 3,
+        "outBizId": "723385",
+        "outGroupBizId": "2411190420487541498904",
+        "showlabels": ["酷家乐三笠", "8615267006532"],
+        "siteId": 303122355,
+        "siteLockBizType": 2,
+        "siteLockStatus": 1,
+        "startTimeStamp": 1732532400000
+      }
+    ],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "f55c6c44dbb5411f900fadaf576d4ccf",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "5893dcb9512a4cb4aba8f3259e4b1712",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122355,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      }
+    ],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122355, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  },
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [{ "basePrice": 100, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "d9b2c6f152634db3998c5ecc8b70d820",
+        "outGroupBizId": "4f0eabccbcf84290a5a062f99f6c397a",
+        "showlabels": ["洪启毓", "15313735867"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      }
+    ],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [{ "basePrice": 100, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "cd6f74e285b44b9b8d4ae88792502899",
+        "outGroupBizId": "9130c577330044d3b1dd67e672641be1",
+        "showlabels": ["陈玲珠", "8613373880386"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      }
+    ],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "4f65900188704b199309e23e7192c3ea",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "169cf729b7c74d5ea129394028207a31",
+        "outGroupBizId": "5a2ec25ccdcc44be8e7d7626e38809fd",
+        "showlabels": ["阿诚", "18667419702"],
+        "siteId": 303122401,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      }
+    ],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122401, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  },
+  {
+    "baseEndTimeStamp": 1732496400000,
+    "baseStartTimeStamp": 1732492800000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "08:00-09:00"
+  },
+  {
+    "baseEndTimeStamp": 1732500000000,
+    "baseStartTimeStamp": 1732496400000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "09:00-10:00"
+  },
+  {
+    "baseEndTimeStamp": 1732503600000,
+    "baseStartTimeStamp": 1732500000000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "10:00-11:00"
+  },
+  {
+    "baseEndTimeStamp": 1732507200000,
+    "baseStartTimeStamp": 1732503600000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "11:00-12:00"
+  },
+  {
+    "baseEndTimeStamp": 1732510800000,
+    "baseStartTimeStamp": 1732507200000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "12:00-13:00"
+  },
+  {
+    "baseEndTimeStamp": 1732514400000,
+    "baseStartTimeStamp": 1732510800000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "13:00-14:00"
+  },
+  {
+    "baseEndTimeStamp": 1732518000000,
+    "baseStartTimeStamp": 1732514400000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "14:00-15:00"
+  },
+  {
+    "baseEndTimeStamp": 1732521600000,
+    "baseStartTimeStamp": 1732518000000,
+    "records": [{ "basePrice": 50, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "15:00-16:00"
+  },
+  {
+    "baseEndTimeStamp": 1732525200000,
+    "baseStartTimeStamp": 1732521600000,
+    "records": [
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      },
+      {
+        "endTimeStamp": 1732525200000,
+        "lockCustomerType": 2,
+        "outBizId": "97df96cc17c84820ad2cd82ceacfe183",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732521600000
+      }
+    ],
+    "timeInterval": "16:00-17:00"
+  },
+  {
+    "baseEndTimeStamp": 1732528800000,
+    "baseStartTimeStamp": 1732525200000,
+    "records": [
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      },
+      {
+        "endTimeStamp": 1732528800000,
+        "lockCustomerType": 2,
+        "outBizId": "c19c85a59ee340edbcfe6b6890d0f8b7",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732525200000
+      }
+    ],
+    "timeInterval": "17:00-18:00"
+  },
+  {
+    "baseEndTimeStamp": 1732532400000,
+    "baseStartTimeStamp": 1732528800000,
+    "records": [
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      },
+      {
+        "endTimeStamp": 1732532400000,
+        "lockCustomerType": 2,
+        "outBizId": "2b3800ef61e242b8b164d5736fe7db12",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732528800000
+      }
+    ],
+    "timeInterval": "18:00-19:00"
+  },
+  {
+    "baseEndTimeStamp": 1732536000000,
+    "baseStartTimeStamp": 1732532400000,
+    "records": [
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      },
+      {
+        "endTimeStamp": 1732536000000,
+        "lockCustomerType": 2,
+        "outBizId": "4447aca48e464c5590735cbd921cfa85",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732532400000
+      }
+    ],
+    "timeInterval": "19:00-20:00"
+  },
+  {
+    "baseEndTimeStamp": 1732539600000,
+    "baseStartTimeStamp": 1732536000000,
+    "records": [
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      },
+      {
+        "endTimeStamp": 1732539600000,
+        "lockCustomerType": 2,
+        "outBizId": "3525e0343ccf436880cc7b833854d4df",
+        "outGroupBizId": "de75234ba4254a8b88b99951fd7add00",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732536000000
+      }
+    ],
+    "timeInterval": "20:00-21:00"
+  },
+  {
+    "baseEndTimeStamp": 1732543200000,
+    "baseStartTimeStamp": 1732539600000,
+    "records": [
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      },
+      {
+        "endTimeStamp": 1732543200000,
+        "lockCustomerType": 2,
+        "outBizId": "9127187900714d9884f3bbfc33c069b3",
+        "outGroupBizId": "d25a9aae50fa46488ae4014ecc170083",
+        "showlabels": ["曹宇", "18681185329"],
+        "siteId": 303122413,
+        "siteLockBizType": 1,
+        "siteLockStatus": 1,
+        "siteLockSubBizType": 2,
+        "startTimeStamp": 1732539600000
+      }
+    ],
+    "timeInterval": "21:00-22:00"
+  },
+  {
+    "baseEndTimeStamp": 1732546800000,
+    "baseStartTimeStamp": 1732543200000,
+    "records": [{ "basePrice": 100, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "22:00-23:00"
+  },
+  {
+    "baseEndTimeStamp": 1732550400000,
+    "baseStartTimeStamp": 1732546800000,
+    "records": [{ "basePrice": 100, "siteId": 303122413, "siteLockStatus": 0 }],
+    "timeInterval": "23:00-24:00"
+  }
+]

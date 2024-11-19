@@ -48,6 +48,7 @@ async function checkHy(reserveDate, week) {
       siteInfoObj[item.siteId] = item.name;
     });
     const canBooking = [];
+    console.log(2222, JSON.stringify(timeIntervalTOs))
     timeIntervalTOs.forEach((item) => {
       const { timeInterval, records } = item;
       if (
